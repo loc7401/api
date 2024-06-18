@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "order": 1,
+        "img": "/Upload/images/avatars/1.jpg",
+        "name": "Nguyễn Văn A",
+        "message": "Anh A vừa mới mua 3 sản phẩm ABC"
+    },
+    {
+        "id": "2",
+        "order": 2,
+        "img": "/Upload/images/avatars/2.jpg",
+        "name": "Trần Thị B",
+        "message": "Chị B vừa mới mua 1 sản phẩm DEF"
+    },
+    {
+        "id": "3",
+        "order": 3,
+        "img": "/Upload/images/avatars/3.jpg",
+        "name": "Lê Văn C",
+        "message": "Anh C vừa mới mua 3 sản phẩm GHI"
+    },
+    {
+        "id": "77b5737a-c3f7-42a5-8c77-c9558bd8e24c",
+        "order": 4,
+        "img": "/Upload/images/avatars/4.jpg",
+        "name": "Phạm Thị D",
+        "message": "Chị Dtt vừa mới mua 3 sản phẩm JKL"
+    }
+]
